@@ -1,4 +1,13 @@
 ## Hi there 👋
+Me chamo Carlos Ricci, estudante de Programação e atualmente estou aprendendo e desenvolvendo projetos com:
+<br>
+<br>
+
+
+- <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt= "html-logo"/>
+- <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" alt= "css-logo"/>
+
+
 
 <!--
 **Caijo-Ricci/Caijo-Ricci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
